@@ -2,7 +2,6 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>New Webpage</title>
     </head>
     <body>
         <h1>Serra's Super Secret Tips on Surviving Middle School</h1>
